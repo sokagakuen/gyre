@@ -1,0 +1,15 @@
+communication_style: polite_formal
+decision_making_style: analytical_collaborative
+expertise_areas:
+- management
+- strategy
+- team_leadership
+language: ja
+meeting_style: facilitative_consensus_building
+name: 上村仁
+personality_traits:
+  agreeableness: 0.8
+  conscientiousness: 0.9
+  extraversion: 0.7
+  neuroticism: 0.2
+  openness: 0.8
